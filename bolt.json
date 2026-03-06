@@ -1,19 +1,19 @@
 {
-    "version": "4.4.6",
+    "version": "4.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AkshayS96/bolt/releases/download/v4.4.6/bolt_4.4.6_windows_amd64.zip",
+            "url": "https://github.com/AkshayS96/bolt/releases/download/v4.5.0/bolt_4.5.0_windows_amd64.zip",
             "bin": [
                 "bolt.exe"
             ],
-            "hash": "3fef4d865ba06d02b2674c79cc5d7d8f81478073aa7706e831ddeae47688e694"
+            "hash": "816400d472b5617b610d21da142acfd9002899d2859c4b67d46f0df9e4673241"
         },
         "arm64": {
-            "url": "https://github.com/AkshayS96/bolt/releases/download/v4.4.6/bolt_4.4.6_windows_arm64.zip",
+            "url": "https://github.com/AkshayS96/bolt/releases/download/v4.5.0/bolt_4.5.0_windows_arm64.zip",
             "bin": [
                 "bolt.exe"
             ],
-            "hash": "f2bd8532658980bfcff37c96843d75ba8d5f9651ef7309af459667fda3446fa2"
+            "hash": "506be3669dae1041caa8c6715714748306d6e2e43f66eff02c493eeb7cd00819"
         }
     },
     "homepage": "https://github.com/AkshayS96/bolt",

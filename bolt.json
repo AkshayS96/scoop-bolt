@@ -1,0 +1,21 @@
+{
+    "version": "4.4.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/AkshayS96/bolt/releases/download/v4.4.6/bolt_4.4.6_windows_amd64.zip",
+            "bin": [
+                "bolt.exe"
+            ],
+            "hash": "3fef4d865ba06d02b2674c79cc5d7d8f81478073aa7706e831ddeae47688e694"
+        },
+        "arm64": {
+            "url": "https://github.com/AkshayS96/bolt/releases/download/v4.4.6/bolt_4.4.6_windows_arm64.zip",
+            "bin": [
+                "bolt.exe"
+            ],
+            "hash": "f2bd8532658980bfcff37c96843d75ba8d5f9651ef7309af459667fda3446fa2"
+        }
+    },
+    "homepage": "https://github.com/AkshayS96/bolt",
+    "description": "Developer Swiss Army Knife CLI"
+}
